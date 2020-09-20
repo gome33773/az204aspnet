@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Sample app for az204 course
+            Sample app for az204 course, updated!
         </div>
     </form>
 </body>
